@@ -1,0 +1,898 @@
+2026-05-29 10:57:11,601 - INFO - Initializing Trading Bot
+2026-05-29 10:57:11,602 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 10:57:11,602 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 10:57:11,605 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 10:57:12,012 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:57:12,014 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:57:12,240 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 10:57:13,110 - INFO - Available strikes: 733 strikes found
+2026-05-29 10:57:13,119 - INFO - 
+======================================================================
+2026-05-29 10:57:13,121 - INFO - PCR CALCULATION CYCLE - 2026-05-29 10:57:13.119003
+2026-05-29 10:57:13,122 - INFO - ======================================================================
+2026-05-29 10:57:13,239 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:57:13,240 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:57:13,240 - WARNING - Current price or strikes not available
+2026-05-29 10:57:13,353 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:57:13,354 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:57:23,461 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:57:23,462 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:57:33,575 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:57:33,576 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:57:43,735 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:57:43,737 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:57:53,858 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:57:53,859 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:58:03,967 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:58:03,968 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:58:14,079 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:58:14,080 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:58:24,200 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:58:24,202 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:58:34,326 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:58:34,327 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:58:44,442 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:58:44,444 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:58:54,550 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:58:54,551 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:59:04,669 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:59:04,670 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:59:14,786 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:59:14,786 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 10:59:24,896 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 10:59:24,897 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:08:02,772 - INFO - Initializing Trading Bot
+2026-05-29 11:08:02,772 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 11:08:02,773 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 11:08:02,775 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 11:08:03,366 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:08:03,367 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:08:03,509 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 11:08:04,539 - INFO - Available strikes: 733 strikes found
+2026-05-29 11:08:04,544 - INFO - 
+======================================================================
+2026-05-29 11:08:04,544 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:08:04.544510
+2026-05-29 11:08:04,545 - INFO - ======================================================================
+2026-05-29 11:08:04,651 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:08:04,652 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:08:04,652 - WARNING - Current price or strikes not available
+2026-05-29 11:08:04,763 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:08:04,764 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:08:14,871 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:08:14,873 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:08:24,991 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:08:24,992 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:08:35,101 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:08:35,102 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:08:45,221 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:08:45,222 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:08:55,333 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:08:55,334 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:09:05,476 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:09:05,477 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:09:15,591 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:09:15,592 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:09:25,717 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:09:25,719 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:09:35,828 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:09:35,829 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:09:45,948 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:09:45,948 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:09:56,060 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:09:56,061 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:10:06,173 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:10:06,174 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:10:16,281 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:10:16,281 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:10:26,402 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:10:26,403 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:10:36,530 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:10:36,531 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:10:46,650 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:10:46,651 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:10:56,780 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:10:56,782 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:11:06,783 - INFO - 
+======================================================================
+2026-05-29 11:11:06,784 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:11:06.783492
+2026-05-29 11:11:06,784 - INFO - ======================================================================
+2026-05-29 11:11:06,908 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:11:06,908 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:11:06,909 - WARNING - Current price or strikes not available
+2026-05-29 11:11:07,026 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:11:07,027 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:11:17,134 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 400 109
+2026-05-29 11:11:17,135 - ERROR - Error fetching NIFTY price: Invalid `api_key` or `access_token`.
+2026-05-29 11:16:03,278 - INFO - Initializing Trading Bot
+2026-05-29 11:16:03,279 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 11:16:03,279 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 11:16:03,282 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 11:16:03,557 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:16:03,559 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:16:03,697 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 11:16:04,688 - INFO - Available strikes: 0 strikes found
+2026-05-29 11:16:04,695 - INFO - 
+======================================================================
+2026-05-29 11:16:04,696 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:16:04.695870
+2026-05-29 11:16:04,696 - INFO - ======================================================================
+2026-05-29 11:16:04,803 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:16:04,804 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:16:04,805 - WARNING - Current price or strikes not available
+2026-05-29 11:16:04,916 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:16:04,918 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:16:15,048 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:16:15,049 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:16:25,169 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:16:25,170 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:16:35,292 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:16:35,293 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:16:45,416 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:16:45,417 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:16:55,538 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:16:55,539 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:17:05,674 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:17:05,675 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:17:15,794 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 403 None
+2026-05-29 11:17:15,795 - ERROR - Error fetching NIFTY price: Incorrect `api_key` or `access_token`.
+2026-05-29 11:17:31,028 - INFO - Initializing Trading Bot
+2026-05-29 11:17:31,028 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 11:17:31,028 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 11:17:31,031 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 11:17:31,333 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:17:31,334 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:17:31,474 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 11:17:32,094 - INFO - Available strikes: 0 strikes found
+2026-05-29 11:17:32,102 - INFO - 
+======================================================================
+2026-05-29 11:17:32,102 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:17:32.102254
+2026-05-29 11:17:32,102 - INFO - ======================================================================
+2026-05-29 11:17:32,221 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:17:32,222 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:17:32,223 - WARNING - Current price or strikes not available
+2026-05-29 11:17:32,335 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:17:32,336 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:17:42,453 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:17:42,454 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:17:52,566 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:17:52,568 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:18:02,689 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:18:02,691 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:18:12,803 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:18:12,804 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:18:22,919 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:18:22,920 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:21:29,545 - INFO - Initializing Trading Bot
+2026-05-29 11:21:29,545 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 11:21:29,545 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 11:21:29,548 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 11:21:30,124 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:21:30,126 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:21:30,259 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 11:21:31,266 - INFO - Available strikes: 0 strikes found
+2026-05-29 11:21:31,272 - INFO - 
+======================================================================
+2026-05-29 11:21:31,272 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:21:31.272571
+2026-05-29 11:21:31,272 - INFO - ======================================================================
+2026-05-29 11:21:31,388 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:21:31,388 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:21:31,389 - WARNING - Current price or strikes not available
+2026-05-29 11:21:31,524 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:21:31,525 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:21:41,639 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:21:41,640 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:21:51,754 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:21:51,754 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:22:02,470 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:22:02,471 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:22:12,585 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:22:12,586 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:22:22,790 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:22:22,792 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:22:32,922 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:22:32,923 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:22:43,133 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:22:43,133 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:24:18,634 - INFO - Initializing Trading Bot
+2026-05-29 11:24:18,634 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 11:24:18,634 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 11:24:18,637 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 11:24:19,172 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:24:19,174 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:24:19,299 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 11:24:20,277 - INFO - Available strikes: 0 strikes found
+2026-05-29 11:24:20,284 - INFO - 
+======================================================================
+2026-05-29 11:24:20,284 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:24:20.284108
+2026-05-29 11:24:20,284 - INFO - ======================================================================
+2026-05-29 11:24:20,394 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:24:20,395 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:24:20,395 - WARNING - Current price or strikes not available
+2026-05-29 11:24:20,514 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:24:20,515 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:24:30,649 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:24:30,650 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:24:40,776 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY50 HTTP/1.1" 200 30
+2026-05-29 11:24:40,777 - ERROR - Error fetching NIFTY price: 'NSE:NIFTY50'
+2026-05-29 11:24:55,740 - INFO - Initializing Trading Bot
+2026-05-29 11:24:55,741 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 11:24:55,741 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 11:24:55,743 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 11:24:56,086 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:24:56,088 - INFO - Current NIFTY price: 23837.7
+2026-05-29 11:24:56,243 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 11:24:56,894 - INFO - Available strikes: 0 strikes found
+2026-05-29 11:24:56,901 - INFO - 
+======================================================================
+2026-05-29 11:24:56,901 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:24:56.901042
+2026-05-29 11:24:56,901 - INFO - ======================================================================
+2026-05-29 11:24:57,008 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:24:57,009 - INFO - Current NIFTY price: 23839.1
+2026-05-29 11:24:57,009 - WARNING - Current price or strikes not available
+2026-05-29 11:24:57,120 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:24:57,121 - INFO - Current NIFTY price: 23838.5
+2026-05-29 11:25:07,237 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:25:07,238 - INFO - Current NIFTY price: 23838.45
+2026-05-29 11:25:17,344 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:25:17,345 - INFO - Current NIFTY price: 23838.8
+2026-05-29 11:25:27,459 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:25:27,461 - INFO - Current NIFTY price: 23837.5
+2026-05-29 11:25:37,578 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:25:37,579 - INFO - Current NIFTY price: 23835.95
+2026-05-29 11:25:47,688 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:25:47,690 - INFO - Current NIFTY price: 23835.05
+2026-05-29 11:25:57,802 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:25:57,803 - INFO - Current NIFTY price: 23835.25
+2026-05-29 11:26:07,915 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:26:07,917 - INFO - Current NIFTY price: 23832.65
+2026-05-29 11:26:18,047 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:26:18,048 - INFO - Current NIFTY price: 23831.75
+2026-05-29 11:26:28,161 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:26:28,162 - INFO - Current NIFTY price: 23831.35
+2026-05-29 11:26:38,271 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:26:38,272 - INFO - Current NIFTY price: 23833.25
+2026-05-29 11:26:48,396 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:26:48,397 - INFO - Current NIFTY price: 23834.1
+2026-05-29 11:26:58,516 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:26:58,517 - INFO - Current NIFTY price: 23834.1
+2026-05-29 11:27:08,634 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:27:08,635 - INFO - Current NIFTY price: 23835.4
+2026-05-29 11:27:18,748 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:27:18,749 - INFO - Current NIFTY price: 23833.2
+2026-05-29 11:27:28,870 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:27:28,871 - INFO - Current NIFTY price: 23831.4
+2026-05-29 11:27:39,019 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:27:39,021 - INFO - Current NIFTY price: 23829.95
+2026-05-29 11:27:49,143 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:27:49,149 - INFO - Current NIFTY price: 23829.5
+2026-05-29 11:27:59,149 - INFO - 
+======================================================================
+2026-05-29 11:27:59,150 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:27:59.149892
+2026-05-29 11:27:59,150 - INFO - ======================================================================
+2026-05-29 11:27:59,261 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:27:59,262 - INFO - Current NIFTY price: 23826.2
+2026-05-29 11:27:59,263 - WARNING - Current price or strikes not available
+2026-05-29 11:27:59,380 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:27:59,381 - INFO - Current NIFTY price: 23826.2
+2026-05-29 11:28:09,497 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:28:09,498 - INFO - Current NIFTY price: 23825.2
+2026-05-29 11:28:19,608 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:28:19,609 - INFO - Current NIFTY price: 23823.9
+2026-05-29 11:28:29,719 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:28:29,720 - INFO - Current NIFTY price: 23824.65
+2026-05-29 11:28:39,834 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:28:39,836 - INFO - Current NIFTY price: 23827.15
+2026-05-29 11:28:49,955 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:28:49,956 - INFO - Current NIFTY price: 23831.6
+2026-05-29 11:40:40,619 - INFO - Initializing Trading Bot
+2026-05-29 11:40:40,620 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 11:40:40,620 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 11:40:40,623 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 11:40:41,205 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:40:41,207 - INFO - Current NIFTY price: 23799.2
+2026-05-29 11:40:41,435 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 11:40:42,352 - INFO - Available strikes: 0 strikes found
+2026-05-29 11:40:42,361 - INFO - 
+======================================================================
+2026-05-29 11:40:42,361 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:40:42.361076
+2026-05-29 11:40:42,361 - INFO - ======================================================================
+2026-05-29 11:40:42,475 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:40:42,476 - INFO - Current NIFTY price: 23799.2
+2026-05-29 11:40:42,477 - WARNING - Current price or strikes not available
+2026-05-29 11:40:42,592 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:40:42,593 - INFO - Current NIFTY price: 23799.2
+2026-05-29 11:40:52,717 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:40:52,719 - INFO - Current NIFTY price: 23798.75
+2026-05-29 11:41:02,841 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:41:02,842 - INFO - Current NIFTY price: 23795.8
+2026-05-29 11:41:12,959 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:41:12,980 - INFO - Current NIFTY price: 23793.95
+2026-05-29 11:41:23,102 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:41:23,103 - INFO - Current NIFTY price: 23793.6
+2026-05-29 11:41:33,222 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:41:33,254 - INFO - Current NIFTY price: 23793.4
+2026-05-29 11:41:43,415 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:41:43,416 - INFO - Current NIFTY price: 23793.9
+2026-05-29 11:41:53,542 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:41:53,544 - INFO - Current NIFTY price: 23786.85
+2026-05-29 11:42:03,672 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:42:03,674 - INFO - Current NIFTY price: 23786.15
+2026-05-29 11:42:13,797 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:42:13,799 - INFO - Current NIFTY price: 23787.1
+2026-05-29 11:42:23,918 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:42:23,919 - INFO - Current NIFTY price: 23787.9
+2026-05-29 11:42:34,053 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:42:34,054 - INFO - Current NIFTY price: 23787.95
+2026-05-29 11:42:44,170 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:42:44,171 - INFO - Current NIFTY price: 23787.85
+2026-05-29 11:42:54,317 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:42:54,319 - INFO - Current NIFTY price: 23785.5
+2026-05-29 11:43:04,445 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:43:04,446 - INFO - Current NIFTY price: 23785.2
+2026-05-29 11:43:14,581 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:43:14,582 - INFO - Current NIFTY price: 23781.85
+2026-05-29 11:43:24,698 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:43:24,700 - INFO - Current NIFTY price: 23778.3
+2026-05-29 11:43:34,816 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:43:34,817 - INFO - Current NIFTY price: 23777.3
+2026-05-29 11:43:44,818 - INFO - 
+======================================================================
+2026-05-29 11:43:44,818 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:43:44.817968
+2026-05-29 11:43:44,818 - INFO - ======================================================================
+2026-05-29 11:43:44,942 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:43:44,942 - INFO - Current NIFTY price: 23776.8
+2026-05-29 11:43:44,943 - WARNING - Current price or strikes not available
+2026-05-29 11:43:45,078 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:43:45,079 - INFO - Current NIFTY price: 23777.2
+2026-05-29 11:43:55,196 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:43:55,198 - INFO - Current NIFTY price: 23777.95
+2026-05-29 11:44:05,325 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:44:05,327 - INFO - Current NIFTY price: 23775
+2026-05-29 11:44:15,449 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:44:15,450 - INFO - Current NIFTY price: 23773.6
+2026-05-29 11:44:25,568 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:44:25,570 - INFO - Current NIFTY price: 23775.05
+2026-05-29 11:44:35,688 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:44:35,690 - INFO - Current NIFTY price: 23774.8
+2026-05-29 11:44:45,831 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:44:45,831 - INFO - Current NIFTY price: 23773
+2026-05-29 11:44:55,949 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:44:55,951 - INFO - Current NIFTY price: 23769.9
+2026-05-29 11:45:06,071 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:45:06,072 - INFO - Current NIFTY price: 23766.45
+2026-05-29 11:45:16,190 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:45:16,191 - INFO - Current NIFTY price: 23766.1
+2026-05-29 11:45:26,307 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:45:26,308 - INFO - Current NIFTY price: 23766.25
+2026-05-29 11:45:36,421 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:45:36,422 - INFO - Current NIFTY price: 23762.95
+2026-05-29 11:45:46,548 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:45:46,551 - INFO - Current NIFTY price: 23761.35
+2026-05-29 11:45:56,671 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:45:56,672 - INFO - Current NIFTY price: 23761.2
+2026-05-29 11:46:06,796 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:46:06,797 - INFO - Current NIFTY price: 23760.45
+2026-05-29 11:46:16,916 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:46:16,918 - INFO - Current NIFTY price: 23762.75
+2026-05-29 11:46:27,059 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:46:27,060 - INFO - Current NIFTY price: 23764.8
+2026-05-29 11:46:37,175 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:46:37,178 - INFO - Current NIFTY price: 23767.35
+2026-05-29 11:46:47,180 - INFO - 
+======================================================================
+2026-05-29 11:46:47,180 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:46:47.180331
+2026-05-29 11:46:47,180 - INFO - ======================================================================
+2026-05-29 11:46:47,307 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:46:47,308 - INFO - Current NIFTY price: 23773.7
+2026-05-29 11:46:47,308 - WARNING - Current price or strikes not available
+2026-05-29 11:46:47,426 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:46:47,427 - INFO - Current NIFTY price: 23773.7
+2026-05-29 11:46:57,547 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:46:57,547 - INFO - Current NIFTY price: 23773.25
+2026-05-29 11:47:07,671 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:47:07,672 - INFO - Current NIFTY price: 23771.55
+2026-05-29 11:47:17,787 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:47:17,788 - INFO - Current NIFTY price: 23774.45
+2026-05-29 11:47:27,911 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:47:27,912 - INFO - Current NIFTY price: 23776.75
+2026-05-29 11:47:38,048 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:47:38,049 - INFO - Current NIFTY price: 23779.25
+2026-05-29 11:47:48,176 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:47:48,177 - INFO - Current NIFTY price: 23779.15
+2026-05-29 11:47:58,292 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:47:58,293 - INFO - Current NIFTY price: 23781.2
+2026-05-29 11:48:08,413 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:48:08,414 - INFO - Current NIFTY price: 23782.8
+2026-05-29 11:48:18,532 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:48:18,533 - INFO - Current NIFTY price: 23784.85
+2026-05-29 11:48:28,658 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:48:28,659 - INFO - Current NIFTY price: 23784.6
+2026-05-29 11:48:38,774 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:48:38,775 - INFO - Current NIFTY price: 23787
+2026-05-29 11:48:48,903 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:48:48,904 - INFO - Current NIFTY price: 23787.75
+2026-05-29 11:48:59,025 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:48:59,026 - INFO - Current NIFTY price: 23789.5
+2026-05-29 11:49:09,146 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:49:09,148 - INFO - Current NIFTY price: 23788.15
+2026-05-29 11:49:19,269 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:49:19,270 - INFO - Current NIFTY price: 23782.65
+2026-05-29 11:49:29,386 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:49:29,387 - INFO - Current NIFTY price: 23782.05
+2026-05-29 11:49:39,506 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:49:39,507 - INFO - Current NIFTY price: 23781.05
+2026-05-29 11:49:49,508 - INFO - 
+======================================================================
+2026-05-29 11:49:49,509 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:49:49.508622
+2026-05-29 11:49:49,510 - INFO - ======================================================================
+2026-05-29 11:49:49,643 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:49:49,644 - INFO - Current NIFTY price: 23781.15
+2026-05-29 11:49:49,644 - WARNING - Current price or strikes not available
+2026-05-29 11:49:49,782 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:49:49,783 - INFO - Current NIFTY price: 23781.15
+2026-05-29 11:49:59,904 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:49:59,906 - INFO - Current NIFTY price: 23780.75
+2026-05-29 11:50:10,021 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:50:10,022 - INFO - Current NIFTY price: 23776.2
+2026-05-29 11:50:20,139 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:50:20,140 - INFO - Current NIFTY price: 23778.7
+2026-05-29 11:50:30,254 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:50:30,256 - INFO - Current NIFTY price: 23778.05
+2026-05-29 11:50:40,384 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:50:40,384 - INFO - Current NIFTY price: 23779.1
+2026-05-29 11:50:50,502 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:50:50,504 - INFO - Current NIFTY price: 23779.25
+2026-05-29 11:51:00,635 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:51:00,637 - INFO - Current NIFTY price: 23781.05
+2026-05-29 11:51:10,757 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:51:10,762 - INFO - Current NIFTY price: 23780.95
+2026-05-29 11:51:20,883 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:51:20,885 - INFO - Current NIFTY price: 23782
+2026-05-29 11:51:31,034 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:51:31,035 - INFO - Current NIFTY price: 23780.45
+2026-05-29 11:51:41,200 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:51:41,201 - INFO - Current NIFTY price: 23777.95
+2026-05-29 11:51:51,381 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:51:51,383 - INFO - Current NIFTY price: 23776.5
+2026-05-29 11:52:01,502 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:52:01,503 - INFO - Current NIFTY price: 23781.1
+2026-05-29 11:52:11,671 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:52:11,672 - INFO - Current NIFTY price: 23779.9
+2026-05-29 11:52:21,801 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:52:21,802 - INFO - Current NIFTY price: 23778.45
+2026-05-29 11:52:31,922 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:52:31,924 - INFO - Current NIFTY price: 23772.7
+2026-05-29 11:52:42,047 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:52:42,048 - INFO - Current NIFTY price: 23771.65
+2026-05-29 11:52:52,049 - INFO - 
+======================================================================
+2026-05-29 11:52:52,050 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:52:52.049616
+2026-05-29 11:52:52,050 - INFO - ======================================================================
+2026-05-29 11:52:52,175 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:52:52,177 - INFO - Current NIFTY price: 23771.7
+2026-05-29 11:52:52,178 - WARNING - Current price or strikes not available
+2026-05-29 11:52:52,298 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:52:52,299 - INFO - Current NIFTY price: 23771.7
+2026-05-29 11:53:02,414 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:53:02,416 - INFO - Current NIFTY price: 23772.25
+2026-05-29 11:53:12,544 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:53:12,545 - INFO - Current NIFTY price: 23770.8
+2026-05-29 11:53:22,664 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:53:22,665 - INFO - Current NIFTY price: 23771.4
+2026-05-29 11:53:32,786 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:53:32,788 - INFO - Current NIFTY price: 23768.95
+2026-05-29 11:53:42,917 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:53:42,919 - INFO - Current NIFTY price: 23767.5
+2026-05-29 11:53:53,081 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:53:53,083 - INFO - Current NIFTY price: 23767.7
+2026-05-29 11:54:03,197 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:54:03,199 - INFO - Current NIFTY price: 23762.65
+2026-05-29 11:54:13,329 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:54:13,330 - INFO - Current NIFTY price: 23762.75
+2026-05-29 11:54:23,453 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:54:23,454 - INFO - Current NIFTY price: 23765.05
+2026-05-29 11:54:33,577 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:54:33,579 - INFO - Current NIFTY price: 23774.65
+2026-05-29 11:54:43,697 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:54:43,699 - INFO - Current NIFTY price: 23772.35
+2026-05-29 11:54:53,839 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:54:53,840 - INFO - Current NIFTY price: 23772.45
+2026-05-29 11:55:04,061 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:55:04,062 - INFO - Current NIFTY price: 23773.35
+2026-05-29 11:55:14,185 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:55:14,187 - INFO - Current NIFTY price: 23776.85
+2026-05-29 11:55:24,347 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:55:24,349 - INFO - Current NIFTY price: 23777.3
+2026-05-29 11:55:34,468 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:55:34,470 - INFO - Current NIFTY price: 23774.8
+2026-05-29 11:55:44,595 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:55:44,596 - INFO - Current NIFTY price: 23775.1
+2026-05-29 11:55:54,597 - INFO - 
+======================================================================
+2026-05-29 11:55:54,597 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:55:54.596964
+2026-05-29 11:55:54,598 - INFO - ======================================================================
+2026-05-29 11:55:54,724 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:55:54,726 - INFO - Current NIFTY price: 23776.6
+2026-05-29 11:55:54,726 - WARNING - Current price or strikes not available
+2026-05-29 11:55:54,856 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:55:54,857 - INFO - Current NIFTY price: 23776.35
+2026-05-29 11:56:05,006 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:56:05,008 - INFO - Current NIFTY price: 23775.5
+2026-05-29 11:56:15,134 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:56:15,135 - INFO - Current NIFTY price: 23775.25
+2026-05-29 11:56:25,260 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:56:25,261 - INFO - Current NIFTY price: 23773.05
+2026-05-29 11:56:35,392 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:56:35,393 - INFO - Current NIFTY price: 23775.1
+2026-05-29 11:56:45,536 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:56:45,538 - INFO - Current NIFTY price: 23777.3
+2026-05-29 11:56:55,694 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:56:55,696 - INFO - Current NIFTY price: 23777.95
+2026-05-29 11:57:05,824 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:57:05,826 - INFO - Current NIFTY price: 23775.9
+2026-05-29 11:57:15,951 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:57:15,953 - INFO - Current NIFTY price: 23778.05
+2026-05-29 11:57:26,099 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:57:26,100 - INFO - Current NIFTY price: 23777.55
+2026-05-29 11:57:36,264 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:57:36,266 - INFO - Current NIFTY price: 23779.1
+2026-05-29 11:57:46,385 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:57:46,386 - INFO - Current NIFTY price: 23780.95
+2026-05-29 11:57:56,502 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:57:56,503 - INFO - Current NIFTY price: 23778
+2026-05-29 11:58:06,625 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:58:06,626 - INFO - Current NIFTY price: 23772.4
+2026-05-29 11:58:16,760 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:58:16,761 - INFO - Current NIFTY price: 23772
+2026-05-29 11:58:26,884 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:58:26,885 - INFO - Current NIFTY price: 23768.95
+2026-05-29 11:58:37,015 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:58:37,016 - INFO - Current NIFTY price: 23766.2
+2026-05-29 11:58:47,144 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:58:47,146 - INFO - Current NIFTY price: 23767.05
+2026-05-29 11:58:57,147 - INFO - 
+======================================================================
+2026-05-29 11:58:57,147 - INFO - PCR CALCULATION CYCLE - 2026-05-29 11:58:57.147531
+2026-05-29 11:58:57,148 - INFO - ======================================================================
+2026-05-29 11:58:57,286 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:58:57,287 - INFO - Current NIFTY price: 23768.45
+2026-05-29 11:58:57,287 - WARNING - Current price or strikes not available
+2026-05-29 11:58:57,410 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:58:57,411 - INFO - Current NIFTY price: 23768.45
+2026-05-29 11:59:07,531 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:59:07,534 - INFO - Current NIFTY price: 23771
+2026-05-29 11:59:17,657 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:59:17,658 - INFO - Current NIFTY price: 23772.6
+2026-05-29 11:59:27,787 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:59:27,814 - INFO - Current NIFTY price: 23772.45
+2026-05-29 11:59:37,935 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:59:37,936 - INFO - Current NIFTY price: 23772.65
+2026-05-29 11:59:48,072 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:59:48,073 - INFO - Current NIFTY price: 23774.3
+2026-05-29 11:59:58,201 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 11:59:58,204 - INFO - Current NIFTY price: 23774.9
+2026-05-29 12:00:08,356 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:00:08,357 - INFO - Current NIFTY price: 23776.2
+2026-05-29 12:00:18,475 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:00:18,475 - INFO - Current NIFTY price: 23776.55
+2026-05-29 12:00:28,590 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:00:28,590 - INFO - Current NIFTY price: 23776.3
+2026-05-29 12:00:38,724 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:00:38,725 - INFO - Current NIFTY price: 23781.4
+2026-05-29 12:00:48,852 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:00:48,853 - INFO - Current NIFTY price: 23783.8
+2026-05-29 12:00:58,977 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:00:58,979 - INFO - Current NIFTY price: 23784.45
+2026-05-29 12:01:09,100 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:01:09,101 - INFO - Current NIFTY price: 23782.35
+2026-05-29 12:01:19,232 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:01:19,234 - INFO - Current NIFTY price: 23780.4
+2026-05-29 12:01:29,362 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:01:29,365 - INFO - Current NIFTY price: 23781.75
+2026-05-29 12:01:39,483 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:01:39,484 - INFO - Current NIFTY price: 23782.6
+2026-05-29 12:01:49,604 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:01:49,605 - INFO - Current NIFTY price: 23782.2
+2026-05-29 12:01:59,606 - INFO - 
+======================================================================
+2026-05-29 12:01:59,607 - INFO - PCR CALCULATION CYCLE - 2026-05-29 12:01:59.606654
+2026-05-29 12:01:59,607 - INFO - ======================================================================
+2026-05-29 12:01:59,728 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:01:59,729 - INFO - Current NIFTY price: 23782.9
+2026-05-29 12:01:59,730 - WARNING - Current price or strikes not available
+2026-05-29 12:01:59,853 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:01:59,855 - INFO - Current NIFTY price: 23782.9
+2026-05-29 12:02:09,990 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:02:09,991 - INFO - Current NIFTY price: 23782.5
+2026-05-29 12:02:20,116 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:02:20,117 - INFO - Current NIFTY price: 23782.85
+2026-05-29 12:02:30,236 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:02:30,239 - INFO - Current NIFTY price: 23781.95
+2026-05-29 12:02:40,358 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:02:40,360 - INFO - Current NIFTY price: 23780.85
+2026-05-29 12:02:50,491 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:02:50,493 - INFO - Current NIFTY price: 23778.75
+2026-05-29 12:03:00,622 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:03:00,623 - INFO - Current NIFTY price: 23778.15
+2026-05-29 12:03:10,742 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:03:10,742 - INFO - Current NIFTY price: 23778.25
+2026-05-29 12:03:20,891 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:03:20,892 - INFO - Current NIFTY price: 23777.35
+2026-05-29 12:03:31,007 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:03:31,008 - INFO - Current NIFTY price: 23776.5
+2026-05-29 12:03:41,126 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:03:41,127 - INFO - Current NIFTY price: 23777.55
+2026-05-29 12:03:51,246 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:03:51,247 - INFO - Current NIFTY price: 23777.4
+2026-05-29 12:04:01,363 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:04:01,364 - INFO - Current NIFTY price: 23774.1
+2026-05-29 12:04:11,493 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:04:11,494 - INFO - Current NIFTY price: 23774.75
+2026-05-29 12:04:21,610 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:04:21,611 - INFO - Current NIFTY price: 23778.55
+2026-05-29 12:04:31,728 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:04:31,729 - INFO - Current NIFTY price: 23778.7
+2026-05-29 12:04:41,853 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:04:41,854 - INFO - Current NIFTY price: 23775.55
+2026-05-29 12:04:51,969 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:04:51,971 - INFO - Current NIFTY price: 23774.35
+2026-05-29 12:05:01,972 - INFO - 
+======================================================================
+2026-05-29 12:05:01,973 - INFO - PCR CALCULATION CYCLE - 2026-05-29 12:05:01.972256
+2026-05-29 12:05:01,973 - INFO - ======================================================================
+2026-05-29 12:05:02,096 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:05:02,097 - INFO - Current NIFTY price: 23773.55
+2026-05-29 12:05:02,097 - WARNING - Current price or strikes not available
+2026-05-29 12:05:02,211 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:05:02,212 - INFO - Current NIFTY price: 23773.55
+2026-05-29 12:05:12,336 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:05:12,337 - INFO - Current NIFTY price: 23773.15
+2026-05-29 12:05:22,456 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:05:22,457 - INFO - Current NIFTY price: 23773.7
+2026-05-29 12:05:32,573 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:05:32,574 - INFO - Current NIFTY price: 23774.9
+2026-05-29 12:05:42,687 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:05:42,688 - INFO - Current NIFTY price: 23775.15
+2026-05-29 12:05:52,819 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:05:52,822 - INFO - Current NIFTY price: 23776.3
+2026-05-29 12:06:02,951 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:06:02,953 - INFO - Current NIFTY price: 23776.15
+2026-05-29 12:06:13,071 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:06:13,072 - INFO - Current NIFTY price: 23775.5
+2026-05-29 12:06:23,199 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:06:23,200 - INFO - Current NIFTY price: 23772.85
+2026-05-29 12:06:33,318 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:06:33,319 - INFO - Current NIFTY price: 23770.7
+2026-05-29 12:08:48,027 - INFO - Initializing Trading Bot
+2026-05-29 12:08:48,027 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 12:08:48,027 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 12:08:48,031 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 12:08:48,577 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:08:48,579 - INFO - Current NIFTY price: 23776.8
+2026-05-29 12:08:48,724 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 12:08:49,697 - INFO - Available strikes: 0 strikes found
+2026-05-29 12:08:49,706 - INFO - 
+======================================================================
+2026-05-29 12:08:49,707 - INFO - PCR CALCULATION CYCLE - aligned to 2026-05-29 12:06:00
+2026-05-29 12:08:49,707 - INFO - ======================================================================
+2026-05-29 12:08:49,822 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:08:49,823 - INFO - Current NIFTY price: 23777.35
+2026-05-29 12:08:49,824 - WARNING - Current price or strikes not available
+2026-05-29 12:08:49,939 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:08:49,941 - INFO - Current NIFTY price: 23777.35
+2026-05-29 12:09:00,061 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:09:00,062 - INFO - Current NIFTY price: 23776.25
+2026-05-29 12:09:10,063 - INFO - 
+======================================================================
+2026-05-29 12:09:10,063 - INFO - PCR CALCULATION CYCLE - aligned to 2026-05-29 12:09:00
+2026-05-29 12:09:10,063 - INFO - ======================================================================
+2026-05-29 12:09:10,377 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:09:10,379 - INFO - Current NIFTY price: 23775.8
+2026-05-29 12:09:10,380 - WARNING - Current price or strikes not available
+2026-05-29 12:09:10,491 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:09:10,493 - INFO - Current NIFTY price: 23775.6
+2026-05-29 12:09:20,613 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:09:20,615 - INFO - Current NIFTY price: 23773.35
+2026-05-29 12:09:30,726 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:09:30,728 - INFO - Current NIFTY price: 23774.65
+2026-05-29 12:09:40,843 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:09:40,844 - INFO - Current NIFTY price: 23771.15
+2026-05-29 12:09:50,974 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:09:50,975 - INFO - Current NIFTY price: 23770.1
+2026-05-29 12:10:01,089 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:10:01,090 - INFO - Current NIFTY price: 23770
+2026-05-29 12:10:11,203 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:10:11,205 - INFO - Current NIFTY price: 23767.9
+2026-05-29 12:10:21,322 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:10:21,324 - INFO - Current NIFTY price: 23770.2
+2026-05-29 12:10:31,446 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:10:31,447 - INFO - Current NIFTY price: 23770.1
+2026-05-29 12:10:41,560 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:10:41,562 - INFO - Current NIFTY price: 23772.75
+2026-05-29 12:10:51,678 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:10:51,679 - INFO - Current NIFTY price: 23772.85
+2026-05-29 12:11:01,864 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:11:01,865 - INFO - Current NIFTY price: 23776.45
+2026-05-29 12:11:11,985 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:11:11,988 - INFO - Current NIFTY price: 23777.25
+2026-05-29 12:11:22,098 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:11:22,099 - INFO - Current NIFTY price: 23778.3
+2026-05-29 12:11:32,219 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:11:32,221 - INFO - Current NIFTY price: 23777.2
+2026-05-29 12:11:42,342 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:11:42,343 - INFO - Current NIFTY price: 23775.25
+2026-05-29 12:11:52,460 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:11:52,462 - INFO - Current NIFTY price: 23774.25
+2026-05-29 12:12:02,463 - INFO - 
+======================================================================
+2026-05-29 12:12:02,464 - INFO - PCR CALCULATION CYCLE - aligned to 2026-05-29 12:12:00
+2026-05-29 12:12:02,464 - INFO - ======================================================================
+2026-05-29 12:12:02,573 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:12:02,574 - INFO - Current NIFTY price: 23776.45
+2026-05-29 12:12:02,574 - WARNING - Current price or strikes not available
+2026-05-29 12:12:02,694 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:12:02,696 - INFO - Current NIFTY price: 23776.45
+2026-05-29 12:12:37,206 - INFO - Initializing Trading Bot
+2026-05-29 12:12:37,206 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 12:12:37,206 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 12:12:37,209 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 12:12:37,502 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:12:37,505 - INFO - Current NIFTY price: 23777.8
+2026-05-29 12:12:37,646 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 12:12:38,281 - INFO - Available strikes: 0 strikes found
+2026-05-29 12:12:38,289 - INFO - 
+======================================================================
+2026-05-29 12:12:38,289 - INFO - PCR CALCULATION CYCLE - aligned to 2026-05-29 12:12:00
+2026-05-29 12:12:38,289 - INFO - ======================================================================
+2026-05-29 12:12:38,401 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:12:38,403 - INFO - Current NIFTY price: 23777.7
+2026-05-29 12:12:38,403 - WARNING - Current price or strikes not available
+2026-05-29 12:12:38,517 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:12:38,519 - INFO - Current NIFTY price: 23777.25
+2026-05-29 12:12:48,646 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:12:48,648 - INFO - Current NIFTY price: 23776.8
+2026-05-29 12:12:58,776 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:12:58,778 - INFO - Current NIFTY price: 23777.7
+2026-05-29 12:13:08,893 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:13:08,897 - INFO - Current NIFTY price: 23775.85
+2026-05-29 12:13:19,056 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:13:19,057 - INFO - Current NIFTY price: 23776.85
+2026-05-29 12:13:29,169 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:13:29,170 - INFO - Current NIFTY price: 23777.25
+2026-05-29 12:13:39,295 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:13:39,297 - INFO - Current NIFTY price: 23775.85
+2026-05-29 12:13:49,415 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:13:49,417 - INFO - Current NIFTY price: 23776.45
+2026-05-29 12:13:59,537 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:13:59,538 - INFO - Current NIFTY price: 23773.5
+2026-05-29 12:14:09,667 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:14:09,668 - INFO - Current NIFTY price: 23773.75
+2026-05-29 12:14:19,793 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:14:19,794 - INFO - Current NIFTY price: 23774.4
+2026-05-29 12:14:29,917 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:14:29,918 - INFO - Current NIFTY price: 23777
+2026-05-29 12:14:40,060 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:14:40,061 - INFO - Current NIFTY price: 23772.85
+2026-05-29 12:14:50,180 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:14:50,182 - INFO - Current NIFTY price: 23773.2
+2026-05-29 12:15:00,183 - INFO - 
+======================================================================
+2026-05-29 12:15:00,184 - INFO - PCR CALCULATION CYCLE - aligned to 2026-05-29 12:15:00
+2026-05-29 12:15:00,185 - INFO - ======================================================================
+2026-05-29 12:15:00,294 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:15:00,297 - INFO - Current NIFTY price: 23773.15
+2026-05-29 12:15:00,297 - WARNING - Current price or strikes not available
+2026-05-29 12:15:00,419 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:15:00,420 - INFO - Current NIFTY price: 23773.15
+2026-05-29 12:15:10,535 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:15:10,536 - INFO - Current NIFTY price: 23771
+2026-05-29 12:15:20,651 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:15:20,652 - INFO - Current NIFTY price: 23770.8
+2026-05-29 12:18:51,576 - INFO - Initializing Trading Bot
+2026-05-29 12:18:51,576 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 12:18:51,577 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 12:18:51,581 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 12:18:52,135 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:18:52,137 - INFO - Current NIFTY price: 23763.9
+2026-05-29 12:18:52,364 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 12:18:53,289 - INFO - Available strikes: 0 strikes found
+2026-05-29 12:18:53,289 - WARNING - No NIFTY option strikes found for the configured symbol/expiry. Check config.SYMBOL and config.EXPIRY_DATE.
+2026-05-29 12:18:53,296 - INFO - 
+======================================================================
+2026-05-29 12:18:53,296 - INFO - PCR CALCULATION CYCLE - aligned to 2026-05-29 12:18:00
+2026-05-29 12:18:53,296 - INFO - ======================================================================
+2026-05-29 12:18:53,423 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:18:53,424 - INFO - Current NIFTY price: 23763.35
+2026-05-29 12:18:53,425 - WARNING - Current price or strikes not available
+2026-05-29 12:18:53,540 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:18:53,541 - INFO - Current NIFTY price: 23764.05
+2026-05-29 12:19:03,675 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:19:03,676 - INFO - Current NIFTY price: 23763.2
+2026-05-29 12:19:13,792 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:19:13,794 - INFO - Current NIFTY price: 23763.6
+2026-05-29 12:19:23,903 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:19:23,906 - INFO - Current NIFTY price: 23760.75
+2026-05-29 12:19:34,047 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:19:34,047 - INFO - Current NIFTY price: 23760.3
+2026-05-29 12:19:44,164 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:19:44,165 - INFO - Current NIFTY price: 23757.45
+2026-05-29 12:19:54,288 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:19:54,290 - INFO - Current NIFTY price: 23756.55
+2026-05-29 12:20:04,402 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:20:04,404 - INFO - Current NIFTY price: 23755.05
+2026-05-29 12:20:14,536 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:20:14,538 - INFO - Current NIFTY price: 23755.75
+2026-05-29 12:20:24,655 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:20:24,656 - INFO - Current NIFTY price: 23758.95
+2026-05-29 12:20:34,769 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:20:34,771 - INFO - Current NIFTY price: 23758.75
+2026-05-29 12:20:44,891 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:20:44,894 - INFO - Current NIFTY price: 23761
+2026-05-29 12:20:55,025 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:20:55,026 - INFO - Current NIFTY price: 23761.35
+2026-05-29 12:21:05,027 - INFO - 
+======================================================================
+2026-05-29 12:21:05,027 - INFO - PCR CALCULATION CYCLE - aligned to 2026-05-29 12:21:00
+2026-05-29 12:21:05,028 - INFO - ======================================================================
+2026-05-29 12:21:05,138 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:21:05,139 - INFO - Current NIFTY price: 23762.35
+2026-05-29 12:21:05,139 - WARNING - Current price or strikes not available
+2026-05-29 12:21:05,248 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:21:05,249 - INFO - Current NIFTY price: 23761.95
+2026-05-29 12:21:16,047 - INFO - Initializing Trading Bot
+2026-05-29 12:21:16,047 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 12:21:16,047 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 12:21:16,050 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 12:21:16,318 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:21:16,321 - INFO - Current NIFTY price: 23758.3
+2026-05-29 12:21:16,459 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 478327
+2026-05-29 12:21:17,112 - INFO - Available strikes: 0 strikes found
+2026-05-29 12:21:17,112 - WARNING - No NIFTY option strikes found for the configured symbol/expiry. Check config.SYMBOL and config.EXPIRY_DATE.
+2026-05-29 12:21:17,120 - INFO - 
+======================================================================
+2026-05-29 12:21:17,120 - INFO - PCR CALCULATION CYCLE - aligned to 2026-05-29 12:21:00
+2026-05-29 12:21:17,120 - INFO - ======================================================================
+2026-05-29 12:21:17,231 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:21:17,232 - INFO - Current NIFTY price: 23757.7
+2026-05-29 12:21:17,232 - WARNING - Current price or strikes not available
+2026-05-29 12:21:17,340 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:21:17,341 - INFO - Current NIFTY price: 23758.1
+2026-05-29 12:21:27,457 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:21:27,459 - INFO - Current NIFTY price: 23754.15
+2026-05-29 12:21:37,574 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:21:37,575 - INFO - Current NIFTY price: 23754.1
+2026-05-29 12:21:47,693 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:21:47,695 - INFO - Current NIFTY price: 23752.55
+2026-05-29 12:21:57,808 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:21:57,809 - INFO - Current NIFTY price: 23750.75
+2026-05-29 12:22:07,926 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:22:07,928 - INFO - Current NIFTY price: 23745.55
+2026-05-29 12:22:18,056 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:22:18,057 - INFO - Current NIFTY price: 23743.65
+2026-05-29 12:22:28,165 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:22:28,167 - INFO - Current NIFTY price: 23743.65
+2026-05-29 12:22:38,286 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:22:38,287 - INFO - Current NIFTY price: 23743.05
+2026-05-29 12:22:48,400 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:22:48,402 - INFO - Current NIFTY price: 23743.55
+2026-05-29 12:22:58,508 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 12:22:58,510 - INFO - Current NIFTY price: 23744.85
+2026-05-29 20:04:21,040 - INFO - Initializing Trading Bot
+2026-05-29 20:04:21,040 - INFO - Signal Candle Trading Strategy initialized
+2026-05-29 20:04:21,040 - INFO - Starting Signal Candle Trading Strategy
+2026-05-29 20:04:21,044 - DEBUG - Starting new HTTPS connection (1): api.kite.trade:443
+2026-05-29 20:04:21,763 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 20:04:21,766 - INFO - Current NIFTY price: 23547.75
+2026-05-29 20:04:21,910 - DEBUG - https://api.kite.trade:443 "GET /instruments/NFO HTTP/1.1" 200 479770
+2026-05-29 20:04:23,210 - INFO - Available strikes: 0 strikes found
+2026-05-29 20:04:23,210 - WARNING - No NIFTY option strikes found for the configured symbol/expiry. Check config.SYMBOL and config.EXPIRY_DATE.
+2026-05-29 20:04:23,220 - INFO - 
+======================================================================
+2026-05-29 20:04:23,220 - INFO - PCR CALCULATION CYCLE - aligned to 2026-05-29 20:03:00
+2026-05-29 20:04:23,220 - INFO - ======================================================================
+2026-05-29 20:04:23,400 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 20:04:23,401 - INFO - Current NIFTY price: 23547.75
+2026-05-29 20:04:23,401 - WARNING - Current price or strikes not available
+2026-05-29 20:04:23,546 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 20:04:23,547 - INFO - Current NIFTY price: 23547.75
+2026-05-29 20:04:33,744 - DEBUG - https://api.kite.trade:443 "GET /quote?i=NSE%3ANIFTY+50 HTTP/1.1" 200 None
+2026-05-29 20:04:33,745 - INFO - Current NIFTY price: 23547.75
